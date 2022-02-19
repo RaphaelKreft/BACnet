@@ -1,3 +1,10 @@
+# Contribution: BACNet Core
+
+We contributed to this Project by engineering a python library, which incorperates
+all fucntionality of the networkstack of BACNet and makes it easy for developers to build on
+BACNet. More deatils as well as the code can be found in the directory: 21-fs-ias-lec/3-BACnetCore/
+
+
 # Project BACnet (BAsel Citizen Net)
 
 The Internet has become so ubiquitous that we take it for granted,
